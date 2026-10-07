@@ -1,0 +1,179 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<META name="GENERATOR" content="IBM WebSphere Studio Homepage Builder Version 7.0.0.0 Trial for Windows">
+<META http-equiv="Content-Style-Type" content="text/css">
+<TITLE>フォルカーの部屋 - リンク -</TITLE>
+<STYLE type="text/css">
+<!--
+a:link { text-decoration:none;  }
+a:visited { text-decoration:none; }
+a:active { text-decoration:none; }
+a:hover { text-decoration:underline; }
+BODY TD { line-height: 120%; }
+BODY TD { font-family: 'Arial','ＭＳ ゴシック'; }
+-->
+</STYLE>
+</HEAD>
+<!---- LastModified 2005/04/25---->
+<BODY bgcolor="#FFFFFF" text="#000000" link="#000088" vlink="#880000"><!--Infoseek Analyzer start--><script LANGUAGE="javascript">PgNo=7;</script>
+<script src="http://js1.infoseek.co.jp/bin/53/00237.js"></script>
+<noscript><a href="http://ax1.www.infoseek.co.jp/bin/go?0023753g" target="_blank"><img src="http://ax1.www.infoseek.co.jp/bin/logo?0023753g" border=0></a></noscript>
+<!--Infoseek Analyzer end-->
+<center><IMG SRC="images/link_new.gif"></center>
+<!---
+<p>
+<CENTER>
+あくまでも個人的趣味によるリンク集です。皆様のお役にたてば幸いかと...
+<P>
+</CENTER>
+---><!---<IMG SRC="images/new.gif" ALT="NEW" hspace=5>--->
+<CENTER>
+<P>
+<Table border=0 width="650">
+  
+    <TR ALIGN="center" VALIGN="middle" BGCOLOR=#0000FF>
+      <TD COLSPAN=2><FONT face="ＭＳ Ｐゴシック" color="#FFFFFF" siize="+1">聖 地 関 連 の ペ ー ジ</FONT></TD>
+    </TR>
+    <TR>
+      <TD>
+      <P><BR>
+      <A href="http://www.wienerphilharmoniker.at/" TARGET="_blank"><B>WIENER PHILHARMONIKER</B> （ウィーンフィルハーモニー管弦楽団）</A><br>
+      <A href="http://www.fk-wph.at/html/home.htm" TARGET="_blank"><B>FK-WPH - Philharmonischer Fusballklub Wien</B> （ウィーンフィルサッカー部）</A><br>
+      <A href="http://kwien.exblog.jp/" TARGET="_blank"><B>K&Kの生活</B> （WPh団員 和樹ヘーデンボルグ夫妻のブログ）</A><br>
+      <A href="http://www.wiener-staatsoper.at/" TARGET="_blank"><B>Wiener Staatsoper</B> （ウィーン国立歌劇場）</A><br>
+      <A href="http://www.arcadia.at/" TARGET="_blank"><B>ARCADIA</B> （Opera Shop Vienna）</A><br>
+      <A href="http://www.theater-wien.at/" TARGET="_blank"><B>Theater an der Wien</B> （テアター・アン・デア・ウィーン）</A><br>
+      <P>
+      <A HREF="http://www.volksoper.at/" TARGET="_blank"><B>Volksoper Wien</B> （フォルクスオパー・ウィーン）</A><BR>
+      <a href="http://www.wiener-symphoniker.at" TARGET="_blank"><B>Wiener Symphoniker</B> （ウィーン交響楽団）</a><br>
+      <A HREF="http://www.rso-wien.orf.at/" TARGET="_blank"><B>Radio Symphonie Orchesters Wien</B> （ウィーン放送交響楽団）</A><BR>
+      <a href="http://www.mozart.co.at/" TARGET="_blank"><B>Wiener Mozart Orchestra</B> （ウィーン・モーツァルト・オーケストラ）</a><br>
+      <A href="http://www.musikverein-wien.at/" TARGET="_blank"><B>Musikverein - Wien</B> （ウィーン楽友協会）</A><BR>
+      <A href="http://www.konzerthaus.at/" TARGET="_blank"><B>Wiener Konzerthaus</B> （ウィーン・コンツェルトハウス）</A><BR>
+      <A href="http://www.festwochen.or.at/" TARGET="_blank"><B>Wiener Festwochen</B> （ウィーン芸術週間）</A><br>
+      <A HREF="http://www.mdw.ac.at/" TARGET="_blank"><B>Universitat f. Musik u. Darstellende Kunst Wien</B> （ウィーン国立音楽演劇大学）</A><BR>
+      
+      <P><A href="http://www.salzburgfestival.com/" TARGET="_blank"><B>SALZBURG FESTIVAL</B> （ザルツブルク音楽祭）</A><br>
+      <A HREF="http://www.tonkuenstler.at/" TARGET="_blank"><B>Nieder&ouml;sterreichischen Tonk&uuml;nstler</B> （N&Ouml;トンキュンストラー管弦楽団）</A><BR>
+      <a href="http://haydnphil.org/index_jp.html" TARGET="_blank"><B>アダム・フィッシャー＆ハイドン・オーケストラ・ファン・クラブ</B></a><br>
+      
+      <P><a href="http://www.a4j.at/welcome.html" TARGET="_blank"><B>オーストリアなんでも情報</B></a><br>
+      <A HREF="http://wien-jp.com/" TARGET="_blank"><B>ウィーン観光情報</B></a><br>
+      <A href="http://www.aua.com/" TARGET="_blank"><B>AUSTRIAN AIRLINES</B> （オーストリア航空）</A><br>
+      
+      </td>
+    </tr>
+  
+</table>
+<P><BR>
+
+<Table border=0 width="650">
+  
+    <TR ALIGN="center" VALIGN="middle" BGCOLOR=#0000FF>
+      <TD COLSPAN=2><FONT face="ＭＳ Ｐゴシック" color="#FFFFFF" siize="+1">ウ ィ ン ナ ホ ル ン 関 連 の ペ ー ジ</FONT></TD>
+    </TR>
+    <TR>
+      <TD>
+      <P><BR>
+      <A HREF="http://www.wienerhorn.tokyo/" TARGET="_blank"><B>東京ウィンナホルン協会</B> （Tokio Wiener Horn Verein）</A><BR>
+      <A HREF="http://www.hurricane.at/gvlaschits/whe.home.html" TARGET="_blank"><B>Das Wiener Horn Ensemble</B></A><BR>
+      <A HREF="http://www.wienerhorn.com/" TARGET="_blank"><B>Wienerhorn.com</B></A><BR>
+      <A HREF="http://www.pizka.de/" TARGET="_blank"><B>Hans Pizka</B></a><br>
+      <A HREF="http://homepage2.nifty.com/atelierharlow/" TARGET="_blank"><B>アトリエハーロー</B> （Atelier Harlow）</A><BR>
+      <A HREF="http://www.corno.de/laden/jungwirth/" TARGET="_blank"><B>Andreas Jungwirth</B></A><BR>
+      <A HREF="http://www.yamaha-europe.com/yamaha_europe/austria/index.html" TARGET="_blank"><B>YAMAHA Austria</B></A><BR>
+      <A HREF="http://www.jk-klier.de/" TARGET="_blank"><B>Josef Klier</B></A><BR>
+      <A HREF="http://www.heavybrass.com/" TARGET="_blank"><B>Heavy Brass</B></A><BR>
+      <A HREF="http://www.btinternet.com/~tleese/svh/" TARGET="_blank"><B>Scottish Vienna Horns</B></A><BR>
+      </TD>
+    </tr>
+  
+</table>
+<P><BR>
+
+<Table border=0 width="650">
+  
+    <TR ALIGN="center" VALIGN="middle" BGCOLOR=#0000FF>
+      <TD COLSPAN=2><FONT face="ＭＳ Ｐゴシック" color="#FFFFFF" siize="+1">ク ラ シ ッ ク 関 連 の 「定 番」 ペ ー ジ</FONT></TD>
+    </TR>
+    <TR>
+      <TD>
+      <P><BR>
+      <a href="http://www.classicajapan.com" TARGET="_blank"><B>CLASSICA</B></a><br>
+      <a href="http://www2s.biglobe.ne.jp/~jim/freude/" TARGET="_blank"><B>Freude</B></a><br>
+      <a href="http://www.ongakunotomo.co.jp/" TARGET="_blank"><B>音楽之友社</B></a><br>
+      <a href="http://homepage2.nifty.com/182494/ClassicManekineko/" TARGET="_blank"><B>クラシック招き猫</B></a><br>
+      
+      </TD>
+    </TR>
+  
+</table>
+<P><BR>
+
+<Table border=0 width="650">
+  
+    <TR ALIGN="center" VALIGN="middle" BGCOLOR=#0000FF>
+      <TD COLSPAN=2><FONT face="ＭＳ Ｐゴシック" color="#FFFFFF" siize="+1">オ ケ 仲 間 / W e b 仲 間 の ペ ー ジ</FONT></TD>
+    </TR>
+    <TR></TR>
+    <TR>
+      <TD>
+      <P><BR>
+      <a href="http://www2.tokai.or.jp/s.fuji/" TARGET="_blank"><B>ウィーン・フィルハーモニー管弦楽団完全ディスコグラフィ</B></a><br>
+      <A HREF="http://www.ne.jp/asahi/wan/wan/" TARGET="_blank"><B>Oh, Wonderful Page</B></A><BR>
+      <a href="http://www.ne.jp/asahi/rumi/viola/" TARGET="_blank"><B>Sound Post</B></a><br>
+      <A href="http://village.infoweb.ne.jp/~grazia/" TARGET="_blank"><B>con grazia</b></a><br>
+      <a href="http://bassoon.blog32.fc2.com/ " TARGET="_blank"><B>バスーン♪の杜</B></a><br>
+      <a href="http://www.kapelle.jp/" TARGET="_blank"><B>An die Musik</B></a><br>
+      <a href="http://www.seikaisei.com/" TARGET="_blank"><B>斉諧生音盤志</B></a><br>
+      
+      </TD>
+    </TR>
+  
+</table>
+<P><BR>
+
+<Table border=0 width="650">
+  
+    <TR ALIGN="center" VALIGN="middle" BGCOLOR=#0000FF>
+      <TD COLSPAN=2><FONT face="ＭＳ Ｐゴシック" color="#FFFFFF" siize="+1">私 が 参 加 し て い る オ ケ の ペ ー ジ</FONT></TD>
+    </TR>
+    <TR>
+      <TD>
+      <P><BR>
+      <a href="fukyowaon/fukyo_index.html" TARGET="_blank"><B>合奏集団不協和音</B></a> ※現在休団中<br>
+      <a href="http://www.annie.ne.jp/~koga/symphonica/" TARGET="_blank"><B>THE SYMPHONICA</B> （ザ・シンフォニカ）</a><br>
+      <A HREF="http://www.ne.jp/asahi/wan/wan/emq/top.html" TARGET="_blank"><B>Ensemble MUSIKQUELLCHEN -EMQ-</B></A><BR>
+      <A HREF="http://www.geocities.jp/jphilharmoniker/index.html" TARGET="_blank"><B>Ｊフィルハーモニー管弦楽団</B> （J Philharmoniker）</A><BR>
+      
+      </TD>
+    </TR>
+  
+</table>
+<P><BR>
+
+<Table border=0 width="650">
+  
+    <TR ALIGN="center" VALIGN="middle" BGCOLOR=#0000FF>
+      <TD COLSPAN=2><FONT face="ＭＳ Ｐゴシック" color="#FFFFFF" siize="+1">そ の 他 の ペ ー ジ</FONT></TD>
+    </TR>
+    <TR>
+      <TD>
+      <P><BR>
+      <a href="http://kusa2.jp/"><B>草津夏期国際音楽アカデミー＆フェスティヴァル</B></a><br>
+      <a href="http://www.nij.to/v.yamabare/"><B>ヴィラ・ヤマバレ</B></a> （友人辻智章氏が経営する石垣島のペンション）<br>
+    
+      </TD>
+    </TR>
+  
+</TABLE>
+<P><BR>
+
+<HR width="650">
+<CENTER><A HREF="index.html">フォルカーの部屋ホームページ</A>へ<BR>
+</CENTER>
+</CENTER>
+</BODY>
+</HTML>

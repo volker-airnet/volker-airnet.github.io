@@ -1,0 +1,7 @@
+<!--Infoseek Analyzer start-->
+<script LANGUAGE="javascript">PgNo=1;</script>
+<script src="http://js1.infoseek.co.jp/bin/53/00237.js"></script>
+<noscript><a href="http://ax1.www.infoseek.co.jp/bin/go?0023753a" target="_blank">
+<img src="http://ax1.www.infoseek.co.jp/bin/logo?0023753a" border=0></a></noscript>
+<!--Infoseek Analyzer end-->
+
